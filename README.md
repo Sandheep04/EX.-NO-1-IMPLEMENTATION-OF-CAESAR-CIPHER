@@ -74,7 +74,9 @@ int main() {
 
 
 ## OUTPUT:
-![hill chiper](https://github.com/user-attachments/assets/ee441aeb-0c00-4768-94a5-488dce9fb207)
+![hill chiper](https://github.com/user-attachments/assets/d4cdb63a-7f60-44b1-9bd8-2dcf73199354)
+
+
 
 
 
