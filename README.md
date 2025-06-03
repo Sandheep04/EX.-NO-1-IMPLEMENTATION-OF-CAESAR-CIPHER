@@ -70,16 +70,11 @@ int main() {
     
     return 0;
 }
-'''
-
+```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2555fd9c-2839-4eb0-86e9-1dc009239577)
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/80bac577-fec1-4ed6-8fb8-268ba0a640a3)
 
 
 ## RESULT :
